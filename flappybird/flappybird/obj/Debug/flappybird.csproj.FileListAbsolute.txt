@@ -1,0 +1,9 @@
+Z:\sss\x\flappybird\flappybird\bin\Debug\flappybird.exe.config
+Z:\sss\x\flappybird\flappybird\bin\Debug\flappybird.exe
+Z:\sss\x\flappybird\flappybird\bin\Debug\flappybird.pdb
+Z:\sss\x\flappybird\flappybird\obj\Debug\flappybird.Form1.resources
+Z:\sss\x\flappybird\flappybird\obj\Debug\flappybird.Properties.Resources.resources
+Z:\sss\x\flappybird\flappybird\obj\Debug\flappybird.csproj.GenerateResource.Cache
+Z:\sss\x\flappybird\flappybird\obj\Debug\flappybird.exe
+Z:\sss\x\flappybird\flappybird\obj\Debug\flappybird.pdb
+Z:\sss\x\flappybird\flappybird\obj\Debug\flappybird.csprojResolveAssemblyReference.cache
