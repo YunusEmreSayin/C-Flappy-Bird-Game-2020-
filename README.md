@@ -1,2 +1,3 @@
 # C-Flappy-Bird-Game-2020-
-My first game on c#
+This is my first game on C#
+Coded in 2020 
